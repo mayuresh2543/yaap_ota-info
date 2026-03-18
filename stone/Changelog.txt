@@ -1,0 +1,13 @@
+Changelog 20260320
+YAAP 16.2
+
+* CLEAN FLASH REQUIRED
+* March Security Patch
+* Add OTA Support
+* Fix flashing from YAAP recovery
+* Update blobs from OS2.0.9.0.UMQEUXM
+* Switch back to Vertex kernel and default schedulers
+* Fully rebased kernel with better thermals, performance and efficiency
+* Fix heating issue
+* Various tweaks to powerhint for balanced performance and efficiency
+* Cleanup various rootdir scripts (thanks to kami)

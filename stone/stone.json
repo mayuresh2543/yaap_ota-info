@@ -1,0 +1,17 @@
+{
+  "response": [
+    {
+      "datetime": 1774002023,
+      "filename": "YAAP-16-HOMEMADE-stone-20260320.zip",
+      "payload": [
+        {
+          "offset": 4310,
+          "FILE_HASH": "sZQfoMWwNJL5Py4ge/EQmPFZZHHxgqItACG/XN+fgko",
+          "FILE_SIZE": "1737819103",
+          "METADATA_HASH": "GJThx91A53AlixIjrsarnPB2bS+GqrDf6pqS0dij31U",
+          "METADATA_SIZE": "144224"
+        }
+      ]
+    }
+  ]
+}
