@@ -1,3 +1,14 @@
+Changelog 20260829
+YAAP 17
+
+* Initial Android 17 Build
+* August Security Patch
+* Fix smooth display not working
+* Fix vibration overlay causing SystemUI restart
+* Drop Dolby for now
+* Drop soundtrigger
+* Synced with latest sources
+
 Changelog 20260320
 YAAP 16.2
 
